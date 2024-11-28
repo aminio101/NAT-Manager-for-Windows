@@ -2,6 +2,8 @@
 
 This is a PowerShell script with a graphical user interface (GUI) designed to manage Network Address Translation (NAT) rules on a Windows system. It leverages the `netsh` command to add, list, and delete NAT rules, allowing users to forward ports easily.
 
+![NAT Manager GUI](https://github.com/aminio101/NAT-Manager-for-Windows/blob/main/Capture.PNG)
+
 ## Features
 
 - **View Existing NAT Rules:** Displays all currently configured NAT rules.
